@@ -1,0 +1,37 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Queries\Files\DeleteFile\**" />
+    <Compile Remove="Queries\Files\GetFile\**" />
+    <Compile Remove="Queries\Files\UpdateRecord\**" />
+    <EmbeddedResource Remove="Queries\Files\DeleteFile\**" />
+    <EmbeddedResource Remove="Queries\Files\GetFile\**" />
+    <EmbeddedResource Remove="Queries\Files\UpdateRecord\**" />
+    <None Remove="Queries\Files\DeleteFile\**" />
+    <None Remove="Queries\Files\GetFile\**" />
+    <None Remove="Queries\Files\UpdateRecord\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Commands\" />
+    <Folder Include="Services\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="11.0.1" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
+    <PackageReference Include="MediatR" Version="10.0.1" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="10.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Domain\Domain.csproj" />
+  </ItemGroup>
+
+</Project>
