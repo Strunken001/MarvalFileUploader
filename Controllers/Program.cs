@@ -1,5 +1,4 @@
 using Application.DI;
-using Application.Infrastructure;
 using Application.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -7,7 +6,6 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddApplicationService(builder.Configuration);
 builder.Services.AddControllers();
-builder.Services.AddScoped<ICsvProcessor, CsvProcessorRepo>();
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("Open", builder => builder.AllowAnyOrigin().AllowAnyHeader().AllowAnyMethod());

@@ -21,12 +21,12 @@ namespace Controllers.Controllers
         }
 
         [HttpPost]
-        public async Task<ActionResult<FileValidateResultVm>> GetFileCompareResult([FromForm] UploadFileCompareQuery getFilesCompareQuery)
+        public async Task<ActionResult<List<FileToUpload>>> GetFileCompareResult(List<FileUploadDTO> request)
         {
 
-            var compareFileResultVm = await _mediator.Send(getFilesCompareQuery);
+            var result = await _mediator.Send(new UploadFileContentCommand(request));
 
-            return Ok(compareFileResultVm);
+            return Ok(result);
         }
 
     }

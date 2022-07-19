@@ -19,7 +19,14 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Compile Remove="Infrastructure\ICsvProcessor.cs" />
+    <Compile Remove="Queries\Files\ValidateFile\GetFileCompareValidator.cs" />
+    <Compile Remove="Repositories\CsvProcessorRepo.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Folder Include="Commands\" />
+    <Folder Include="Infrastructure\" />
     <Folder Include="Services\" />
   </ItemGroup>
 

@@ -1,0 +1,239 @@
+﻿++Solution 'Domain' ‎(3 of 3 projects)
+i:{00000000-0000-0000-0000-000000000000}:Domain.sln
+++Script Documents
+++fileupload
+++aspnetcore-browser-refresh.js
+++browserLink
+++Domain
+i:{00000000-0000-0000-0000-000000000000}:Domain
+i:{4326ba6f-497d-4c98-9589-b093bc20dbec}:c:\users\dell\source\repos\domain\domain\bin\debug\net6.0\domain.dll
+i:{55eb9ec6-212e-4fb2-9fba-1d46b244c4c9}:c:\users\dell\source\repos\domain\domain\bin\debug\net6.0\domain.dll
+++Dependencies
+i:{be245230-7659-48bb-8925-78b0cafa225f}:>267
+i:{4326ba6f-497d-4c98-9589-b093bc20dbec}:>266
+i:{55eb9ec6-212e-4fb2-9fba-1d46b244c4c9}:>340
+++Analyzers
+i:{be245230-7659-48bb-8925-78b0cafa225f}:analyzers
+i:{4326ba6f-497d-4c98-9589-b093bc20dbec}:analyzers
+i:{55eb9ec6-212e-4fb2-9fba-1d46b244c4c9}:analyzers
+++Frameworks
+i:{be245230-7659-48bb-8925-78b0cafa225f}:frameworks
+i:{4326ba6f-497d-4c98-9589-b093bc20dbec}:frameworks
+i:{55eb9ec6-212e-4fb2-9fba-1d46b244c4c9}:frameworks
+++Packages
+i:{be245230-7659-48bb-8925-78b0cafa225f}:packages
+i:{4326ba6f-497d-4c98-9589-b093bc20dbec}:packages
+i:{55eb9ec6-212e-4fb2-9fba-1d46b244c4c9}:packages
+++Microsoft.EntityFrameworkCore (6.0.6)
+i:{be245230-7659-48bb-8925-78b0cafa225f}:>352
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.1)
+i:{be245230-7659-48bb-8925-78b0cafa225f}:>564
+++Microsoft.EntityFrameworkCore.Tools (6.0.6)
+i:{be245230-7659-48bb-8925-78b0cafa225f}:>354
+++Db
+i:{be245230-7659-48bb-8925-78b0cafa225f}:c:\users\dell\source\repos\domain\domain\db\
+++FileUploadDbContext.cs
+i:{be245230-7659-48bb-8925-78b0cafa225f}:c:\users\dell\source\repos\domain\domain\db\fileuploaddbcontext.cs
+++Entities
+i:{be245230-7659-48bb-8925-78b0cafa225f}:c:\users\dell\source\repos\domain\domain\entities\
+++FileToUpload.cs
+i:{be245230-7659-48bb-8925-78b0cafa225f}:c:\users\dell\source\repos\domain\domain\entities\filetoupload.cs
+++Exceptions
+i:{be245230-7659-48bb-8925-78b0cafa225f}:c:\users\dell\source\repos\domain\domain\exceptions\
+++Extensions
+i:{be245230-7659-48bb-8925-78b0cafa225f}:c:\users\dell\source\repos\domain\domain\extensions\
+++Migrations
+++20220615210541_InitialMigration.cs
+++UserDbContextModelSnapshot.cs
+++Models
+i:{be245230-7659-48bb-8925-78b0cafa225f}:c:\users\dell\source\repos\domain\domain\models\
+++FileUpdateDTO.cs
+++FileUploadDTO.cs
+i:{be245230-7659-48bb-8925-78b0cafa225f}:c:\users\dell\source\repos\domain\domain\models\fileuploaddto.cs
+++GetFileDTO.cs
+++Response.cs
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{be245230-7659-48bb-8925-78b0cafa225f}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{4326ba6f-497d-4c98-9589-b093bc20dbec}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{55eb9ec6-212e-4fb2-9fba-1d46b244c4c9}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{be245230-7659-48bb-8925-78b0cafa225f}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{4326ba6f-497d-4c98-9589-b093bc20dbec}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{55eb9ec6-212e-4fb2-9fba-1d46b244c4c9}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{be245230-7659-48bb-8925-78b0cafa225f}:c:\users\dell\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.6\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{4326ba6f-497d-4c98-9589-b093bc20dbec}:c:\users\dell\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.6\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{55eb9ec6-212e-4fb2-9fba-1d46b244c4c9}:c:\users\dell\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.6\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{be245230-7659-48bb-8925-78b0cafa225f}:c:\users\dell\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{4326ba6f-497d-4c98-9589-b093bc20dbec}:c:\users\dell\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{55eb9ec6-212e-4fb2-9fba-1d46b244c4c9}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++System.Text.Json.SourceGeneration
+i:{be245230-7659-48bb-8925-78b0cafa225f}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{4326ba6f-497d-4c98-9589-b093bc20dbec}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{55eb9ec6-212e-4fb2-9fba-1d46b244c4c9}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.NETCore.App
+i:{be245230-7659-48bb-8925-78b0cafa225f}:c:\users\dell\source\repos\domain\domain\microsoft.netcore.app
+i:{4326ba6f-497d-4c98-9589-b093bc20dbec}:c:\users\dell\source\repos\domain\application\microsoft.netcore.app
+i:{55eb9ec6-212e-4fb2-9fba-1d46b244c4c9}:c:\users\dell\source\repos\domain\controllers\microsoft.netcore.app
+++20220615210541_InitialMigration.Designer.cs
+++Application
+i:{00000000-0000-0000-0000-000000000000}:Application
+i:{55eb9ec6-212e-4fb2-9fba-1d46b244c4c9}:c:\users\dell\source\repos\domain\application\bin\debug\net6.0\application.dll
+++Commands
+i:{4326ba6f-497d-4c98-9589-b093bc20dbec}:c:\users\dell\source\repos\domain\application\commands\
+++DI
+i:{4326ba6f-497d-4c98-9589-b093bc20dbec}:c:\users\dell\source\repos\domain\application\di\
+++ApplicationService.cs
+i:{4326ba6f-497d-4c98-9589-b093bc20dbec}:c:\users\dell\source\repos\domain\application\di\applicationservice.cs
+++Mappings
+i:{4326ba6f-497d-4c98-9589-b093bc20dbec}:c:\users\dell\source\repos\domain\application\mappings\
+++Queries
+i:{4326ba6f-497d-4c98-9589-b093bc20dbec}:c:\users\dell\source\repos\domain\application\queries\
+++Files
+i:{4326ba6f-497d-4c98-9589-b093bc20dbec}:c:\users\dell\source\repos\domain\application\queries\files\
+i:{4326ba6f-497d-4c98-9589-b093bc20dbec}:c:\users\dell\source\repos\domain\application\mappings\files\
+++DeleteFile
+++GetFile
+++GetFileQuery.cs
+++UpdateRecord
+++UploadFile
+i:{4326ba6f-497d-4c98-9589-b093bc20dbec}:c:\users\dell\source\repos\domain\application\queries\files\uploadfile\
+++Repositories
+i:{4326ba6f-497d-4c98-9589-b093bc20dbec}:c:\users\dell\source\repos\domain\application\repositories\
+++Services
+i:{4326ba6f-497d-4c98-9589-b093bc20dbec}:c:\users\dell\source\repos\domain\application\services\
+++Projects
+i:{4326ba6f-497d-4c98-9589-b093bc20dbec}:projects
+i:{55eb9ec6-212e-4fb2-9fba-1d46b244c4c9}:projects
+++Users
+++DeleteFileQuery.cs
+++UpdateRecordQuery.cs
+++UploadFileQuery.cs
+i:{4326ba6f-497d-4c98-9589-b093bc20dbec}:c:\users\dell\source\repos\domain\application\queries\files\uploadfile\uploadfilequery.cs
+++BaseRepository.cs
+i:{4326ba6f-497d-4c98-9589-b093bc20dbec}:c:\users\dell\source\repos\domain\application\repositories\baserepository.cs
+++IAsyncRepository.cs
+i:{4326ba6f-497d-4c98-9589-b093bc20dbec}:c:\users\dell\source\repos\domain\application\repositories\iasyncrepository.cs
+++AutoMapper (11.0.1)
+i:{4326ba6f-497d-4c98-9589-b093bc20dbec}:>388
+++AutoMapper.Extensions.Microsoft.DependencyInjection (11.0.0)
+i:{4326ba6f-497d-4c98-9589-b093bc20dbec}:>386
+++MediatR (10.0.1)
+i:{4326ba6f-497d-4c98-9589-b093bc20dbec}:>387
+++MediatR.Extensions.Microsoft.DependencyInjection (10.0.1)
+i:{4326ba6f-497d-4c98-9589-b093bc20dbec}:>389
+++FileMapping.cs
+i:{4326ba6f-497d-4c98-9589-b093bc20dbec}:c:\users\dell\source\repos\domain\application\mappings\files\filemapping.cs
+++Controllers
+i:{00000000-0000-0000-0000-000000000000}:Controllers
+i:{55eb9ec6-212e-4fb2-9fba-1d46b244c4c9}:c:\users\dell\source\repos\domain\controllers\controllers\
+++Connected Services 
+i:{55eb9ec6-212e-4fb2-9fba-1d46b244c4c9}:>341
+++Properties
+i:{55eb9ec6-212e-4fb2-9fba-1d46b244c4c9}:c:\users\dell\source\repos\domain\controllers\properties\
+++FileUploadController.cs
+i:{55eb9ec6-212e-4fb2-9fba-1d46b244c4c9}:c:\users\dell\source\repos\domain\controllers\controllers\fileuploadcontroller.cs
+++appsettings.json
+i:{55eb9ec6-212e-4fb2-9fba-1d46b244c4c9}:c:\users\dell\source\repos\domain\controllers\appsettings.json
+++Program.cs
+i:{55eb9ec6-212e-4fb2-9fba-1d46b244c4c9}:c:\users\dell\source\repos\domain\controllers\program.cs
+++User.db
+i:{55eb9ec6-212e-4fb2-9fba-1d46b244c4c9}:c:\users\dell\source\repos\domain\controllers\user.db
+++No service dependencies discovered
+++launchSettings.json
+i:{55eb9ec6-212e-4fb2-9fba-1d46b244c4c9}:c:\users\dell\source\repos\domain\controllers\properties\launchsettings.json
+++appsettings.Development.json
+i:{55eb9ec6-212e-4fb2-9fba-1d46b244c4c9}:c:\users\dell\source\repos\domain\controllers\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{55eb9ec6-212e-4fb2-9fba-1d46b244c4c9}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{55eb9ec6-212e-4fb2-9fba-1d46b244c4c9}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{55eb9ec6-212e-4fb2-9fba-1d46b244c4c9}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{55eb9ec6-212e-4fb2-9fba-1d46b244c4c9}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{55eb9ec6-212e-4fb2-9fba-1d46b244c4c9}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{55eb9ec6-212e-4fb2-9fba-1d46b244c4c9}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{55eb9ec6-212e-4fb2-9fba-1d46b244c4c9}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++Microsoft.AspNetCore.App
+i:{55eb9ec6-212e-4fb2-9fba-1d46b244c4c9}:c:\users\dell\source\repos\domain\controllers\microsoft.aspnetcore.app
+++Microsoft.EntityFrameworkCore.Design (6.0.6)
+i:{55eb9ec6-212e-4fb2-9fba-1d46b244c4c9}:>372
+++Swashbuckle.AspNetCore (6.2.3)
+i:{55eb9ec6-212e-4fb2-9fba-1d46b244c4c9}:>373
+++VM5
+++index.html
+++swagger-ui-bundle.js
+++swagger-ui-standalone-preset.js
+++VM12
+++VM13
+++VM14
+++VM15
+++VM16
+++VM17
+++VM18
+++VM19
+++VM20
+++VM21
+++VM22
+++VM23
+++VM24
+++VM25
+++VM26
+++VM27
+++VM28
+++VM29
+++VM30
+++VM31
+++VM32
+++VM33
+++VM34
+++VM35
+++VM36
+++VM37
+++VM38
+++VM39
+++VM40
+++FileUpload
+++FileCompareResultVm.cs
+++GetFileCompareHandler.cs
+++GetFileCompareValidator.cs
+++GetFilesCompareQuery.cs
+++NewFolder
+++ValidateFile
+i:{4326ba6f-497d-4c98-9589-b093bc20dbec}:c:\users\dell\source\repos\domain\application\queries\files\validatefile\
+++Microsoft.AspNetCore.Http (2.2.2)
+i:{be245230-7659-48bb-8925-78b0cafa225f}:>1322
+++FluentValidation (11.1.0)
+i:{be245230-7659-48bb-8925-78b0cafa225f}:>1323
+++FluentValidation.DependencyInjectionExtensions (11.1.0)
+i:{be245230-7659-48bb-8925-78b0cafa225f}:>1324
+++FileValidateResultVm.cs
+i:{4326ba6f-497d-4c98-9589-b093bc20dbec}:c:\users\dell\source\repos\domain\application\queries\files\validatefile\filevalidateresultvm.cs
+++Response
+i:{be245230-7659-48bb-8925-78b0cafa225f}:c:\users\dell\source\repos\domain\domain\response\
+++BaseResponse.cs
+i:{be245230-7659-48bb-8925-78b0cafa225f}:c:\users\dell\source\repos\domain\domain\response\baseresponse.cs
+++CsvProcessorRepo.cs
+++Helpers
+i:{4326ba6f-497d-4c98-9589-b093bc20dbec}:c:\users\dell\source\repos\domain\application\helpers\
+++FileComparer.cs
+++FileHelper.cs
+i:{4326ba6f-497d-4c98-9589-b093bc20dbec}:c:\users\dell\source\repos\domain\application\helpers\filehelper.cs
+++CsvHelper (28.0.1)
+i:{be245230-7659-48bb-8925-78b0cafa225f}:>1344
+++FileFormatMap.cs
+i:{be245230-7659-48bb-8925-78b0cafa225f}:c:\users\dell\source\repos\domain\domain\models\fileformatmap.cs
+++Infrastructure
+i:{4326ba6f-497d-4c98-9589-b093bc20dbec}:c:\users\dell\source\repos\domain\application\infrastructure\
+++ICsvProcessor.cs
+++FileCompareDto.cs
+i:{4326ba6f-497d-4c98-9589-b093bc20dbec}:c:\users\dell\source\repos\domain\application\queries\files\validatefile\filecomparedto.cs
+++SQL Server Database
+i:{55eb9ec6-212e-4fb2-9fba-1d46b244c4c9}:>1789
+++SQL Server Database dependency is detected
+i:{55eb9ec6-212e-4fb2-9fba-1d46b244c4c9}:>1790

@@ -29,7 +29,6 @@ C:\Users\DELL\source\repos\Domain\Controllers\obj\Debug\net6.0\Controllers.Gener
 C:\Users\DELL\source\repos\Domain\Controllers\obj\Debug\net6.0\Controllers.AssemblyInfoInputs.cache
 C:\Users\DELL\source\repos\Domain\Controllers\obj\Debug\net6.0\Controllers.AssemblyInfo.cs
 C:\Users\DELL\source\repos\Domain\Controllers\obj\Debug\net6.0\Controllers.csproj.CoreCompileInputs.cache
-C:\Users\DELL\source\repos\Domain\Controllers\obj\Debug\net6.0\Controllers.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\DELL\source\repos\Domain\Controllers\obj\Debug\net6.0\Controllers.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\DELL\source\repos\Domain\Controllers\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\DELL\source\repos\Domain\Controllers\obj\Debug\net6.0\staticwebassets.development.json

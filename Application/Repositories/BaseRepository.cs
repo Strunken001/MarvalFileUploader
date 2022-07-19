@@ -24,15 +24,14 @@ public class BaseRepository<T> : IAsyncRepository<T> where T : class
 
     //}
 
-    public async Task<T> UploadFile(T request)
+    public async Task<List<T>> UploadFile(List<T> request)
     {
 
-        var response = await _fileUploadDbContext.Set<T>().AddAsync(request);
+        _fileUploadDbContext.Set<T>().AddRange(request);
 
         await _fileUploadDbContext.SaveChangesAsync();
 
-        return response.Entity;
-
+        return request;
     }
 
     public async Task<List<T>> GetFile()

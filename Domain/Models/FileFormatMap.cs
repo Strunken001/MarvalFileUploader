@@ -11,14 +11,14 @@ namespace Domain.Models
     {
         public FileFormatMap()
         {
-            Map(m => m.Id).Convert(row => row.Row.Context.Parser.RawRow);
-            Map(m => m.Identity).Name("Identity");
-            Map(m => m.FirstName).Name("FirstName");
-            Map(m => m.Surname).Name("Surname");
-            Map(m => m.Age).Name("Age");
-            Map(m => m.Sex).Name("Sex");
-            Map(m => m.Mobile).Name("Mobile");
-            Map(m => m.Active).Name("Active");
+            //Map(m => m.Id).Convert(row => row.Row.Context.Parser.RawRow);
+            //Map(m => m.Identity).Name("Identity");
+            //Map(m => m.FirstName).Name("FirstName");
+            //Map(m => m.Surname).Name("Surname");
+            //Map(m => m.Age).Name("Age");
+            //Map(m => m.Sex).Name("Sex");
+            //Map(m => m.Mobile).Name("Mobile");
+            //Map(m => m.Active).Name("Active");
 
         }
     }

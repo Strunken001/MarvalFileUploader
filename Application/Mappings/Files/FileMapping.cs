@@ -8,7 +8,7 @@ public class FileMapping : Profile
 {
     public FileMapping()
     {
-        CreateMap<FileToUpload, FileUploadDTO>();
+        CreateMap<FileUploadDTO, FileToUpload > ();
         //CreateMap<FileToUpload, FileUploadDTO>();
         //CreateMap<FileToUpload, FileUploadDTO>();
         //CreateMap<FileToUpload, FileUploadDTO>();
